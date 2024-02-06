@@ -1,2 +1,0 @@
-@ Obtener copias
-Get-WBPolicy
