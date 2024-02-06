@@ -1,0 +1,16 @@
+Medio: powershell
+
+Uso: lo ejecutamos desde una ventana de powershell. El equipo tiene que poder ejecutar scripts no firmados.
+
+Para ejecutar scripts no firmados, tenemos que abrir una ventana de powershell como administrador y ejecutar el comando:
+
+Set-ExecutionPolici Unretricted
+
+Condición: para que muestre el resultado se tiene que ejecutar en un equipo que tenga un visor de hojas de cálculo instalado.
+
+Descripción: 
+
+Abrirá un Excel con el tiempo medio de ping a todos los servidores de las sedes. Si alguno tuviera tiempo 0,
+significa que el servidor está caído.
+
+
