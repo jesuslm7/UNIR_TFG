@@ -1,0 +1,33 @@
+#TYPE Microsoft.Management.Infrastructure.CimInstance#root/Microsoft/Windows/DHCP/DhcpServerv4Lease
+"IPAddress";"ScopeId";"AddressState";"ClientId";"ClientType";"Description";"DnsRegistration";"DnsRR";"HostName";"LeaseExpiryTime";"NapCapable";"NapStatus";"PolicyName";"ProbationEnds";"ServerIP";"PSComputerName"
+"192.168.51.3";"192.168.51.0";"InactiveReservation";"33-33-33-33-33-33";"None";"";"NotApplicable";"NoRegistration";"CLC-100";;"False";"FullAccess";;;"0.0.0.0";
+"192.168.60.2";"192.168.60.0";"InactiveReservation";"1c-1b-0d-72-fd-0e";"None";"3A PLANTA - IMPRESORA";"NotApplicable";"NoRegistration";"CLC-001unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.3";"192.168.60.0";"InactiveReservation";"1c-1b-0d-71-fd-0f";"None";"3A PLANTA - ESCANER";"NotApplicable";"NoRegistration";"CLC-002unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.4";"192.168.60.0";"InactiveReservation";"1c-1b-0d-71-fd-10";"None";"3A PLANTA - SERVIDOR";"NotApplicable";"NoRegistration";"CLC-003unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.5";"192.168.60.0";"InactiveReservation";"1c-1b-0d-72-fd-11";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-004unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.6";"192.168.60.0";"InactiveReservation";"1c-1b-0d-73-fd-12";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-005unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.7";"192.168.60.0";"InactiveReservation";"1c-1b-0d-71-fd-11";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-006unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.8";"192.168.60.0";"InactiveReservation";"1c-1b-0d-72-fd-12";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-007unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.9";"192.168.60.0";"InactiveReservation";"1c-1b-0d-73-fd-13";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-008unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.10";"192.168.60.0";"InactiveReservation";"1c-1b-0d-71-fd-12";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-009unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.11";"192.168.60.0";"InactiveReservation";"1c-1b-0d-72-fd-13";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-010unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.12";"192.168.60.0";"InactiveReservation";"1c-1b-0d-73-fd-14";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-011unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.13";"192.168.60.0";"InactiveReservation";"1c-1b-0d-71-fd-13";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-012unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.14";"192.168.60.0";"InactiveReservation";"1c-1b-0d-72-fd-14";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-013unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.15";"192.168.60.0";"InactiveReservation";"1c-1b-0d-73-fd-15";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-014unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.16";"192.168.60.0";"InactiveReservation";"1c-1b-0d-71-fd-14";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-015unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.17";"192.168.60.0";"InactiveReservation";"1c-1b-0d-72-fd-15";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-016unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.18";"192.168.60.0";"InactiveReservation";"1c-1b-0d-73-fd-16";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-017unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.19";"192.168.60.0";"InactiveReservation";"1c-1b-0d-71-fd-15";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-018unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.20";"192.168.60.0";"InactiveReservation";"1c-1b-0d-72-fd-16";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-019unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.21";"192.168.60.0";"InactiveReservation";"1c-1b-0d-73-fd-17";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-020unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.22";"192.168.60.0";"InactiveReservation";"1c-1b-0d-71-fd-16";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-021unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.23";"192.168.60.0";"InactiveReservation";"1c-1b-0d-72-fd-17";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-022unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.24";"192.168.60.0";"InactiveReservation";"1c-1b-0d-73-fd-18";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-023unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.25";"192.168.60.0";"InactiveReservation";"1c-1b-0d-71-fd-17";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-024unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.26";"192.168.60.0";"InactiveReservation";"1c-1b-0d-72-fd-18";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-025unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.27";"192.168.60.0";"InactiveReservation";"1c-1b-0d-73-fd-19";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-026unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.28";"192.168.60.0";"InactiveReservation";"1c-1b-0d-71-fd-18";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-027unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.29";"192.168.60.0";"InactiveReservation";"1c-1b-0d-72-fd-19";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-028unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.30";"192.168.60.0";"InactiveReservation";"1c-1b-0d-73-fd-20";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-029unir.msft";;"False";"FullAccess";;;"255.255.255.255";
+"192.168.60.31";"192.168.60.0";"InactiveReservation";"1c-1b-0d-71-fd-19";"None";"3A PLANTA - EQUIPO";"NotApplicable";"NoRegistration";"CLC-030unir.msft";;"False";"FullAccess";;;"255.255.255.255";
